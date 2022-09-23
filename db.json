@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Shirt",
+      "price": "1000",
+      "category": "men",
+      "color": "black",
+      "brand": "roadster",
+      "img": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2164373/2017/11/15/11510749192975-Roadster-Men-Brown--Black-Regular-Fit-Checked-Casual-Shirt-8071510749192783-1.jpg",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 2,
+      "title": "Watch",
+      "price": "2000",
+      "category": "men",
+      "brand": "samsung",
+      "color": "black",
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-classic-399208-sm-r890nzkainu-481180996?$1300_1038_PNG$",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 3,
+      "title": "Shoes",
+      "price": "3000",
+      "category": "men",
+      "brand": "bata",
+      "color": "black",
+      "img": "https://www.bata.in/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw86740cf3/images/large/8216441_2.jpeg?sw=817",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 4,
+      "title": "Watch",
+      "price": "2000",
+      "category": "women",
+      "brand": "samsung",
+      "color": "black",
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-classic-399208-sm-r890nzkainu-481180996?$1300_1038_PNG$",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 5,
+      "title": "Watch",
+      "price": "2000",
+      "category": "women",
+      "brand": "samsung",
+      "color": "black",
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-classic-399208-sm-r890nzkainu-481180996?$1300_1038_PNG$",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 6,
+      "title": "Watch",
+      "price": "2000",
+      "category": "women",
+      "brand": "samsung",
+      "color": "black",
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-classic-399208-sm-r890nzkainu-481180996?$1300_1038_PNG$",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 7,
+      "title": "Shoes",
+      "price": "6000",
+      "img": "https://www.swayamindia.com/6074-large_default/classy-black-bed-sheet.jpg",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 8,
+      "title": "Office Seat",
+      "price": "5000",
+      "img": "https://wfh.transteel.com/wp-content/uploads/2021/01/Untitled-74.jpg",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 9,
+      "title": "Office Seat",
+      "price": "5000",
+      "img": "https://wfh.transteel.com/wp-content/uploads/2021/01/Untitled-74.jpg",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    },
+    {
+      "id": 10,
+      "title": "Office Seat",
+      "price": "5000",
+      "img": "https://wfh.transteel.com/wp-content/uploads/2021/01/Untitled-74.jpg",
+      "desc": "A product description is the marketing copy that explains what a product is and why it is worth purchasing. The purpose of a product description is to supply customers with important information about the features and benefits of the product so they are compelled to buy"
+    }
+  ]
+}
